@@ -1,5 +1,5 @@
 ---
-name: the-agent-economy-by-lorikeet
+name: the-agent-economy-report
 description: Answer questions from Lorikeet's The Agent Economy report (October 2026, 1,966 US consumers) on how people use AI agents to deal with companies, and check how agent-ready a business is. Use for questions about consumer AI agents contacting businesses, machine customers, B2A (business-to-agent), agent-ready customer service, AI agents negotiating prices or handling refunds and cancellations, Meta Muse and personal agents, or "should we block AI agents", even when the report isn't named.
 ---
 

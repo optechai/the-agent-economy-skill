@@ -13,6 +13,8 @@ This skill gives Claude the full [The Agent Economy](https://www.lorikeetcx.ai/c
 
 Claude answers with the report's figures and its caveats: interest vs. use, upper bounds, and what the data can't tell you.
 
+Once installed, call it directly with `/the-agent-economy-report`, for example: `/the-agent-economy-report Is our support team ready for customers who arrive as agents?`
+
 ## What's inside
 
 - All five findings: interest vs. use, early users, delegating negotiation, repeat use, and the company's own chatbot
@@ -23,7 +25,7 @@ Claude answers with the report's figures and its caveats: interest vs. use, uppe
 
 ### Claude.ai (web, desktop)
 
-1. Download [`the-agent-economy-by-lorikeet.zip`](https://github.com/optechai/the-agent-economy-skill/raw/main/the-agent-economy-by-lorikeet.zip).
+1. Download [`the-agent-economy-report.zip`](https://github.com/optechai/the-agent-economy-skill/raw/main/the-agent-economy-report.zip).
 2. In Claude, go to **Customize > Skills**.
 3. Click **+**, then **Create skill**, then **Upload a skill**, and select the ZIP.
 
@@ -33,7 +35,7 @@ Skills need **Code execution and file creation** turned on under **Settings > Ca
 
 ```bash
 git clone https://github.com/optechai/the-agent-economy-skill.git /tmp/the-agent-economy-skill \
-  && cp -r /tmp/the-agent-economy-skill/the-agent-economy-by-lorikeet ~/.claude/skills/
+  && cp -r /tmp/the-agent-economy-skill/the-agent-economy-report ~/.claude/skills/
 ```
 
 ## Methodology
